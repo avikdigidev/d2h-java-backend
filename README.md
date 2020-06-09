@@ -35,7 +35,7 @@ Enter the option: 2
 Enter the amount to recharge: 500 
 Recharge completed successfully. 
 Current balance is 600
- ============================================================ 
+ 
 Enter the option: 3 
 	View available packs, channels and services 
 		Available packs for subscription 
@@ -50,7 +50,7 @@ Enter the option: 3
 		Available services for subscription 
 			LearnEnglish Service: 200 Rs. 
 			LearnCooking Service: 100 Rs.
- ============================================================ 
+  
 Enter the option: 4
  Subscribe to channel packs Enter the Pack you wish to subscribe: (Silver: ‘S’, Gold: ‘G’): G
  Enter the months: 3 
@@ -59,18 +59,18 @@ Enter the option: 4
  Final Price after discount: 270 Rs. 
  Account balance: 330 Rs. 
  Email notification sent successfully SMS notification sent successfully
- ============================================================ 
+  
  Enter the option: 5
  Add channels to existing subscription 
  Enter channel names to add (separated by commas): Discovery, Nat Geo 
  
 Channels added successfully. Account balance: 300 Rs.
- ============================================================ 
+  
 Enter the option: 6 Subscribe to special services 
 Enter the service name: LearnEnglish Service subscribed successfully Account balance: 100 Rs. Email notification sent successfully SMS notification sent successfully 
- ============================================================ 
+  
 Enter the option: 7 View current subscription details Currently subscribed packs and channels: Gold + Discovery + Nat Geo Currently subscribed services: LearnEnglish. 
- ============================================================ 
+  
 Enter the option: 8 Update email and phone number for notifications 
 Enter the email: john@example.com Enter phone: 9999999999 Email and Phone updated successfully 
 
