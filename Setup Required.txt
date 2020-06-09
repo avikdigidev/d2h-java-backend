@@ -1,0 +1,8 @@
+After importing the project into Eclipse Workspace.
+Right Click on the project
+Go to > Build Path > Configure Build Path
+Go to Libraries Tab> Add External Jar 
+				> Remove the missing " mockito-all-1.10.19.jar" and "lombok.jar"
+				> Add attached " mockito-all-1.10.19.jar" and "lombok.jar"
+(Optional) Go to Libraries Tab> Add Library > Select JUnit > Junit4 > Finish
+Apply and Close.
