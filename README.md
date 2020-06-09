@@ -94,4 +94,4 @@ Some Instructions/Guidelines
 4. Avoid writing too many lines of production code. 
 5. Include test cases. 
 6. Avoid using any framework except testing/mocking frameworks. 
-7. Include all the dependencies with your solution so that we can open it easily in IDE and review/execute it with minimal efforts :) 
+7. Include all the dependencies with your solution so that one can open it easily in IDE and review/execute it with minimal efforts :) 
