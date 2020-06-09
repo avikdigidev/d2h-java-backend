@@ -30,34 +30,45 @@ Sample Inputs
  
 Enter the option: 1
 View current balance in the account Current balance is 100 Rs. 
+
 ======{Here you can show all the options each time if you’d like}========== 
+
 Enter the option: 2 
 Enter the amount to recharge: 500 
 Recharge completed successfully. 
 Current balance is 600
  
 Enter the option: 3 
-	View available packs, channels and services 
-		Available packs for subscription 
+	View available packs, channels and services:
+	
+		Available packs for subscription: 
+		
 			Silver pack: Zee, Sony, Star Plus: 50 Rs. 
 			Gold Pack: Zee, Sony, Star Plus, Discovery, NatGeo: 100 Rs. 
-		Available channels for subscription 
+		Available channels for subscription: 
+		
 			Zee: 10 Rs. 
 			Sony: 15 Rs. 
 			Star Plus: 20 Rs. 
 			Discovery: 10 Rs. 
 			NatGeo: 20 Rs. 
-		Available services for subscription 
+		Available services for subscription:
+		
 			LearnEnglish Service: 200 Rs. 
 			LearnCooking Service: 100 Rs.
   
 Enter the option: 4
+
  Subscribe to channel packs Enter the Pack you wish to subscribe: (Silver: ‘S’, Gold: ‘G’): G
  Enter the months: 3 
+ 
  You have successfully subscribed the following packs - Gold Monthly price: 100 Rs. No of months: 3 
- Subscription Amount: 300 Rs. Discount applied: 30 Rs. 
+ Subscription Amount: 300 Rs. Discount applied: 30 Rs.
+ 
  Final Price after discount: 270 Rs. 
+ 
  Account balance: 330 Rs. 
+ 
  Email notification sent successfully SMS notification sent successfully
   
  Enter the option: 5
@@ -67,6 +78,7 @@ Enter the option: 4
 Channels added successfully. Account balance: 300 Rs.
   
 Enter the option: 6 Subscribe to special services 
+
 Enter the service name: LearnEnglish Service subscribed successfully Account balance: 100 Rs. Email notification sent successfully SMS notification sent successfully 
   
 Enter the option: 7 View current subscription details Currently subscribed packs and channels: Gold + Discovery + Nat Geo Currently subscribed services: LearnEnglish. 
